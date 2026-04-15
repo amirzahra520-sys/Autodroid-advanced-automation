@@ -1,0 +1,17 @@
+{
+  "name": "autodroid-automation",
+  "version": "1.0.0",
+  "description": "On-device Android automation engine",
+  "scripts": {
+    "build": "echo 'This is an Android project. Use Android Studio or ./gradlew assembleDebug to build the APK.'",
+    "test": "echo 'Run tests via Android Studio or ./gradlew test'"
+  },
+  "keywords": [
+    "android",
+    "automation",
+    "ocr",
+    "accessibility"
+  ],
+  "author": "",
+  "license": "Apache-2.0"
+}

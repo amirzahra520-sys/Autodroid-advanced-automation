@@ -1,0 +1,6 @@
+{
+  "name": "AutoDroid: Advanced Automation",
+  "description": "On-device automation engine with OCR, variable logic, and accessibility-based UI interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

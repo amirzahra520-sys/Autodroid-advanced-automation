@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoDroid</string>
+    <string name="accessibility_service_label">AutoDroid Automation Service</string>
+    <string name="accessibility_service_description">Enables AutoDroid to interact with other apps for automation purposes.</string>
+</resources>
